@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/user-pcp</path>
+    <page_callback>CRM_Listpcp_Page_ListPcp</page_callback>
+    <title>ListPcp</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
